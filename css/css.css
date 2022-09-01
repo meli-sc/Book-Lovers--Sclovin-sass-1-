@@ -10,9 +10,9 @@
   background-color: #79f7f7; }
 
 .fondo {
-  background-image: url(../img/8fefe76a14c7163afd417d57e3624271.jpg); }
+  background-image: url(/img/8fefe76a14c7163afd417d57e3624271.jpg); }
   .fondo .hero {
-    background-image: url(/img/imagen-index.jpg);
+    background-image: url(../img/imagen-index.jpg);
     height: 100vh; }
     .fondo .hero .animacionTitulo {
       -webkit-animation: slide-top 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
